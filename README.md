@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junhyeok Lee</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭This is high school graduation project **Income Statement**
+- 🔭This was high school graduation project **Income Statement**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
